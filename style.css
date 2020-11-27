@@ -1,6 +1,7 @@
 body {
     margin: 0;
     background-color: #272b30;
+    background-image: url('./img/theme.jpg');
 }
 
 .imglogo {
