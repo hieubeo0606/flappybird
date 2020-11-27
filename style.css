@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    background-color: #272b30;
+}
+
+.imglogo {
+    position: absolute;
+    top: 10px;
+    left: 20px;
+}
+
+img {
+    padding-top: 10px;
+    height: 30px;
+}
+
+.myCanvas {
+    display: flex;
+    padding-top: 20px;
+    justify-content: center;
+}
+
+.logome {
+    position: fixed;
+    background-image: url("./img/logome.jpg");
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    background-size: cover;
+    bottom: 15px;
+    right: 15px;
+}
